@@ -161,7 +161,7 @@ class _PdfViewState extends State<PdfView> {
       width,
       height,
       ui.PixelFormat.bgra8888,
-          (img) {
+      (img) {
         setState(() {
           image = img;
         });
