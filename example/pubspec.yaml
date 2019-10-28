@@ -16,6 +16,14 @@ dependencies:
 
   cupertino_icons: ^0.1.0
 
+  pdfium:
+    path: ../../
+  path_provider: ^1.4.0
+  path_provider_fde:
+    path: ../plugins/flutter_plugins/path_provider_fde
+  file_chooser:
+    path: ../plugins/file_chooser
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
