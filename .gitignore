@@ -1,17 +1,1 @@
 .DS_Store
-
-Podfile
-plugins/color_panel/ios/Flutter/
-plugins/color_panel/linux/flutter/
-plugins/color_panel/macos/Flutter/
-plugins/example_plugin/linux/flutter/
-plugins/example_plugin/macos/Flutter/
-plugins/file_chooser/ios/Flutter/
-plugins/file_chooser/linux/flutter/
-plugins/file_chooser/macos/Flutter/
-plugins/menubar/ios/Flutter/
-plugins/menubar/linux/flutter/
-plugins/menubar/macos/Flutter/
-plugins/window_size/ios/Flutter/
-plugins/window_size/linux/flutter/
-plugins/window_size/macos/Flutter/
